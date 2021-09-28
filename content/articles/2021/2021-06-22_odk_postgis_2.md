@@ -404,7 +404,7 @@ Enfin ce graphique, basé sur la nouvelle base de donnée "Occitanie" montre l'�
 - [le fichier XLSFform présentant l'ensemble des types de questions disponibles](https://docs.google.com/spreadsheets/d/1af_Sl8A_L8_EULbhRLHVl8OclCfco09Hq2tqb9CslwQ/edit#gid=0)
 - [utiliser ODK sans serveur Central](https://www.youtube.com/watch?v=F4tntbcdGI0)
 - [la liste des cours de stats4sd sur ODK](https://forum.getodk.org/t/great-resources-from-stats4sd-team/31045)
-
+- [une ressource très complète par CartONG sur XLSForm](https://www.im-portal.org/help-library/cartong-xlsform-cheat-sheet)
 ----
 
 ## Auteur
